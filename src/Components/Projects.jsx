@@ -6,14 +6,14 @@ function Projects() {
   // ---------------- REACT PROJECTS ----------------
   const reactProjects = [
     {
-      title: "Bookify (Firebase)",
-      desc: "Book management web app with Firebase database.",
-      links:"https://kashish9717.github.io/Bookify/",
+      title: "Property Website",
+      desc: "Property Web App with Filter & Sort Functionality.",
+      links:"https://namancomtech.github.io/PropertyWebsite",
     },
     {
-      title: "Notes Store",
-      desc: "Save and manage notes with React.",
-      links:"https://kashish9717.github.io/NoteApp/",
+      title: "ToDo List",
+      desc: "Add your Daily Tasks here & get status report in Pdf file.",
+      links:"https://namancomtech.github.io/ToDoList",
     },
   ];
 
