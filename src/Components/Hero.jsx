@@ -162,7 +162,7 @@ React JS, Bootstrap with PHP & MySQL for backend services.
 {/* -------- DOWNLOAD CV BUTTON (TOP FLY ANIMATION) -------- */}
 
 <motion.a
-href="/Portfolio_Naman/NamanResume.pdf?v=1"  //REpo name
+href="/Portfolio_Naman/NamanResume.pdf?v=2"  //REpo name
 target="_blank"
 rel="noopener noreferrer"
 
