@@ -6,6 +6,11 @@ function Projects() {
   // ---------------- REACT PROJECTS ----------------
   const reactProjects = [
     {
+      title: "NSKart",
+      desc: "E-Commerce Web App",
+      links:"https://namancomtech.github.io/NSKart",
+    },
+    {
       title: "Property Website",
       desc: "Property Web App with Filter & Sort Functionality.",
       links:"https://namancomtech.github.io/PropertyWebsite",
